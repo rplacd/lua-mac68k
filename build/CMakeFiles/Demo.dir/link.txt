@@ -1,1 +1,0 @@
-/Users/g/Documents/retro68/Retro68-build/toolchain/bin/m68k-apple-macos-gcc   -lm CMakeFiles/Demo.dir/demo.obj  -o Demo.code.bin  libLua.so 

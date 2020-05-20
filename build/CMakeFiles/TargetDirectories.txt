@@ -1,6 +1,0 @@
-/Users/g/Documents/retro68/Retro68/Samples/lua-mac68k/build/CMakeFiles/rebuild_cache.dir
-/Users/g/Documents/retro68/Retro68/Samples/lua-mac68k/build/CMakeFiles/Lua.dir
-/Users/g/Documents/retro68/Retro68/Samples/lua-mac68k/build/CMakeFiles/edit_cache.dir
-/Users/g/Documents/retro68/Retro68/Samples/lua-mac68k/build/CMakeFiles/Demo_APPL.dir
-/Users/g/Documents/retro68/Retro68/Samples/lua-mac68k/build/CMakeFiles/Demo.dir
-/Users/g/Documents/retro68/Retro68/Samples/lua-mac68k/build/CMakeFiles/Lua_APPL.dir
